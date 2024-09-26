@@ -1,0 +1,49 @@
+http://tusharchawatekar.com/ows/#
+
+
+
+
+.Qualitative{
+    height: 250px;
+    width: 25%;
+    background-color: #f5ebeb;
+    margin-top: 100px;   
+    margin-right: 200px;
+}
+
+.Quantitative{
+    height: 250px;
+    width: 25%;
+    background-color: #f5ebeb;
+    margin-top: 100px;
+    margin-right: 200px;
+}
+
+.otherservies{
+    height: 250px;
+    width: 25%;
+    background-color: #f5ebeb;
+    margin-top: 100px;  
+    margin-right: 200px; 
+}
+
+.Qualitative p{
+    font-size: 14px;
+    font-family: sans-serif;
+    color: #333333;
+    }
+    
+.Quantitative p{
+    font-size: 14px;
+    font-family: sans-serif;
+    color: #333333;
+}
+
+.otherservies p{
+    font-size: 14px;
+    font-family: sans-serif;
+    color: #333333;
+}
+
+
+

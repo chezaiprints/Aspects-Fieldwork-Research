@@ -1,0 +1,297 @@
+*{
+margin: 0;
+font-family: sans-serif;
+border: border-box;
+}
+
+.navbar{
+background-color:#f8f8f8;
+height: 130px;
+width: 1365px;
+display: flex;
+}
+
+.nav-logo{
+    height: 100px;
+    width: 300px;
+    
+}
+
+
+.logo{
+    background-image: url(logo_1.png);
+    height: 110px;
+    width: 300px;
+    background-size: cover;
+    
+}
+
+.border{
+    border: 0.5px solid transparent;
+}
+
+.border:hover{
+border: 2px solid black;
+}
+
+.options{
+    display: flex;
+    
+}
+
+.options a{
+    text-indent: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bolder;
+}
+
+.options button{
+    height: 22px;
+    width: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+    margin-top: 40px;
+    background-color: #5cb85c;
+    color: white;
+    font-weight: bolder;
+}
+
+.options button:hover{
+    border: 2px solid white;
+}
+
+.hero-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Box1{
+    height: 500px;
+    width: 50%;
+    background-color: #00aeff;
+}
+
+.Box2{
+    height: 500px;
+    width: 50%;
+    background-color: #ffbb00;
+}
+
+.Aspecets{
+    color: white;
+    font-size: 50px;
+    font-weight: bolder;
+    margin-top: 100px;
+    margin-left: 100px;
+   margin-right: 100px;
+   font-family: sans-serif;
+    
+}
+
+.Redirecting{
+    color: black;
+    font-weight: bolder;
+    margin-top: 20px;
+   margin-left: 150px;
+   margin-right: 100px;
+   font-family: sans-serif;
+}
+
+.Know{
+    color: black;
+    font-size: 40px;
+    font-weight: bolder;
+    margin-top: 105px;
+    margin-left: 100px;
+   margin-right: 100px;
+display: flex;
+justify-content: center;
+text-align: center;
+font-family: sans-serif;
+}
+
+
+.Identify{
+    color: black;
+    font-weight: bolder;
+    margin-top: 20px;
+    margin-left: 15px;
+    font-family: sans-serif;
+}
+
+.hero-section2{
+    display: flex;
+    justify-content: center;
+    align-items: center;}
+
+.box3{
+    height: 500px;
+    width: 50%;
+    background-color: white;
+} 
+
+.box4{
+    height: 500px;
+    width: 50%;
+    background-color: white;}
+
+.About{
+    height: 50px;
+    width: 500px;
+    background-color: #3A56A1;
+    color: #ffffff;
+    border-radius: 5px;
+    border:2px solid black;
+    font-family: sans-serif;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    margin-left: 20px;
+}    
+
+.Right{
+    margin-left: 65px;
+    margin-top: 10px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.para1{
+    font-family: sans-serif;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.para2{
+    font-family: sans-serif;
+    font-size: 16px;
+    margin-top: 20px; 
+}
+
+.para3{
+    font-family: sans-serif;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.para4{
+    font-family: sans-serif;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.section3{
+    background-color: #3A56A1;
+}
+
+.section3 h1{
+    text-align: center;
+    padding-top: 40px;
+}
+
+.sec{
+    display: flex;
+}
+
+.section3a , .section3b , .section3c{
+margin: 5px 20px;
+text-align: center;
+}
+
+.section3a{
+background-color: #F5EBEB;
+}
+
+.section3b{
+    background-color: #DCEBDD;
+}
+
+.section3c{
+background-color: #F5EFD8;    
+}
+
+.section3a button , .section3b button , .section3c button {
+    color: white;
+    background-color: green;
+    border-radius: 5px;
+    border: none;
+    padding: 5px 5px;
+}
+
+
+/** Image Adding **/
+.Industry{
+   color: #337ab7;
+   display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+.box-content{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.box{
+    margin-top: 10px;
+    height: 200px;
+    width: 300px;
+    border: 2px solid black;
+}
+
+.box-content1{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.box-image{
+    height: 170px;
+    margin-bottom: 5px;
+    background-size: contain;
+}
+
+.box-content h3,.box-content1 h3{
+    background-image: #f2f2f2;
+    color: #333333;
+    text-align: center;
+}
+.buttonpress{
+    display: flex;
+    justify-content: center;
+}
+
+.buttonpress button{
+    height: 25px;
+    width: 80px;
+    margin-top: 30px;
+    color: white;
+    background-color: green;
+    border-radius: 5px;
+}
+
+.Coverage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Coverage h1{
+    margin-top: 30px;
+    color: #337ab7;   
+}
+
+.map{
+    margin-top: 20px;
+    height: 700px;
+    width: 1000px;
+    margin-left: 150px;
+}
